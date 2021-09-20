@@ -12,7 +12,7 @@ public class JavaDatabaseConnection {
         String driverName = "com.mysql.cj.jdbc.Driver";
         String url = "jdbc:mysql://localhost:3306/sakila";
         String userName = "root";
-        String password = "2St^%s*AHV5hM7";
+        String password = "root";
 
         try {
             // Create database connection
